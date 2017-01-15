@@ -1,0 +1,19 @@
+{
+  "name": "warsawjs-workshop-2-blog",
+  "version": "1.0.0",
+  "description": "Projekt stworzony podczas warsztatów WarsawJS#2",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnr-roxx/warsawjs-workshop-2-blog.git"
+  },
+  "author": "ja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnr-roxx/warsawjs-workshop-2-blog/issues"
+  },
+  "homepage": "https://github.com/cnr-roxx/warsawjs-workshop-2-blog#readme"
+}

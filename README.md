@@ -1,3 +1,3 @@
 # warsawjs-workshop-2-blog
 
-Test
+Projekt stworzony podczas warsztatów WarsawJS#2

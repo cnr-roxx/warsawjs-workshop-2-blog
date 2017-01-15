@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+    <head>
+        <meta charset="UTF-8">
+
+    </head>
+    <body>
+
+        <script id="template-add-post" type="text/x-handlebars-template">
+            <form id="add-post-form">
+                Title: <input type="text" id="add-post-title" required/><br>
+                Author: <input type="text" id="add-post-author" required/><br>
+                Body: <textarea id="add-post-body" required></textarea><br>
+                <input type="submit" id="add-post-submit" type="submit" value="Submit">
+            </form>
+         </script>
+
+        <script id="template-add-post" type="text/x-handlebars-template">
+            <form id="add-post-form">
+                Title: <input type="text" id="add-post-title" required/><br>
+                Author: <input type="text" id="add-post-author" required/><br>
+                Body: <textarea id="add-post-body" required></textarea><br>
+                <input type="submit" id="add-post-submit" type="submit" value="Submit">
+            </form>
+        </script>
+
+        <div id="view-container"></div>
+
+        <script type="text/javascript" src="scripts/libs/handlebars-v4.0.5.js"></script>
+        <script type="text/javascript" src="scripts/libs/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript" src="scripts/libs/Routy.min.js"></script>
+        <script type="text/javascript" src="scripts/namespaces.js"></script>
+        <script type="text/javascript" src="scripts/router.js"></script>
+        <script type="text/javascript" src="scripts/views/add-post-form-view.js"></script>
+        <script type="text/javascript" src="scripts/application.js"></script>
+    </body>
+</html>
